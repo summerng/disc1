@@ -1,2 +1,2 @@
-# disc1
+# discussion1
 Repo for SI 339
